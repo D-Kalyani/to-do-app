@@ -1,3 +1,30 @@
+React To-Do App ✅
+
+Introduction
+
+React To-Do App is a task management application built with React. It allows users to add, edit, delete, and toggle complete tasks.
+The application uses the Context API for efficient state management across components.
+
+
+Features
+
+1 Add Tasks: Easily add new tasks to your to-do list.
+
+2 Edit Tasks: Modify existing tasks as needed.
+
+3 Delete Tasks: Remove tasks that are no longer needed.
+
+4 Toggle Complete: Mark tasks as complete or incomplete.
+
+5 Context API: Efficient state management across the application.
+
+
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
